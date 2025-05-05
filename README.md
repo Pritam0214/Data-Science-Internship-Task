@@ -24,6 +24,8 @@ Python
 Jupyter Notebook / Google Colab
 
 Libraries:
+## Output
+https://github.com/Pritam0214/Data-Science-Internship-Task/issues/1
 
 pandas for data manipulation
 
